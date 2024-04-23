@@ -5,11 +5,11 @@
 
 ## Authors:
 
+* Kevinkumar Patel | kpate413@uic.edu
 * Arpan Sutaria | asutar5@uic.edu
 * Devesh Patel | dpate320@uic.edu
 * Htin Linn Htoo Than | hthan2@uic.edu
 * Jay Patel | jpate281@uic.edu
-* Kevinkumar Patel | kpate413@uic.edu
 
 ### Notes (Final):
 
