@@ -19,4 +19,4 @@
 * Most people have not used Github to develop collaboratively. This is because Arpan had divided tasks into very individual components that would not have clashes. So everyone developed the way they wanted. At the end Arpan compiled it into one thing.
 * All the datasets used are in the datasets folder. Although, it is missing one of the datasets that was used due to it being very large in size.
 * There is a google driver folder at this link (https://drive.google.com/drive/folders/1mVghORrhiFbkW9usaIFj-RcuBYsdo7lZ?usp=sharing) where you can access ALL the materials. It is identical to this repo, except it contains that dataset as well. Please check it out.
->>>>>>> 9e75c41 (Initial commit)
+
