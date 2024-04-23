@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DataScience_Project_FA23
 =======
 # CS418 Project: Let's Get Real-Estate!
